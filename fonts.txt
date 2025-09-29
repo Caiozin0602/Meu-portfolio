@@ -1,0 +1,9 @@
+Fonts:
+Playfair Siaplay - Titulos e Subtitulos
+Open Sans - Textos
+
+Cores:
+Cabeçalho, rodapé e fundos de imagem - #486479
+Background - #c6edff
+Botões - #5ce1e6
+linha (hr) - #896848

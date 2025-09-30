@@ -7,3 +7,4 @@ Cabeçalho, rodapé e fundos de imagem - #486479
 Background - #c6edff
 Botões - #5ce1e6
 linha (hr) - #896848
+Fundo Paragrafo - #e0f5ff

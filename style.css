@@ -1,0 +1,205 @@
+/*Fontes/import */
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+/*Fontes/import*/
+/**/
+/*Pagina Inteira*/
+*{
+    margin: 0%;
+    /*Tira toda margem do site, deixando elementos enconstatos diretamente nas bordas */
+}
+html{
+    background-color: #c6edff;
+    /*Cor de fundo de todo o site*/
+}
+h2{
+    font-family: "Playfair Display", serif;
+    font-weight: 500;
+}
+h3{
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 730;
+}
+h4{
+    font-family: "Playfair Display", serif;
+    font-weight: 500;
+}
+/*Pagina Inteira*/
+/**/
+/*Cabeçalho*/
+header{
+    background-color: #486479;
+    text-align: center;
+    height: 70px;
+    /*Alinhar todo conteudo na header(cabeçalho) no meio e ajustar altura e cor*/
+}
+nav{
+    text-align: center;
+}
+h1{
+    color: white;
+    font-size: 18px;
+    font-family: "Playfair Display", serif;
+    font-weight: 700;
+    /*Cor da fonte*/
+}
+button{
+    color: white;
+    background-color: #486479;
+    font-size: 18px;
+    border-radius: 100%;
+    border-color: #7ffbff;
+    padding: 7px;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-left: 17px;
+    margin-right: 17px;
+    /*Alterar os botões, mundando tamanho, cor, fonte e formato*/
+}
+hr{
+    height: 1px;
+    background-color: #896848;
+    border-color: #896848;
+    /*Linha horizontal estetica, apenas mudando a cor*/
+}
+/*Cabeçalho*/
+/**/
+/*Conteudo principal*/
+/**/
+/*Sobre mim*/
+#foto{
+    margin: 10px;
+    margin-top: 30px;
+    margin-left: 110px;
+    background-color: #486479;
+    background-size: contain;
+    width: 300px;
+    border-radius: 10px;
+    border-bottom-left-radius: 0%;
+    padding: 30px;
+    text-align: center;
+    /*Article da foto*/
+}
+#eu{
+    width: 300px;
+    border-style: solid;
+    border-radius: 7px;
+    /*Foto em si */
+}
+#h2-2{
+    font-size: 10px;
+    font-family: "Playfair Display", serif;
+    font-weight: 200;
+}
+#sobre{
+    margin-top: 18px;
+    text-align: center;
+    font-size: 20px;
+    text-decoration: none;
+    color: black;
+}
+#p-sobre{
+    margin-top: 3px;
+    margin-left: 35px;
+    margin-right: 35px;
+    background-color: #e0f5ff;
+    font-size: 27px;
+    text-align: justify;
+    padding: 25px;
+    border-radius: 10%;
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+}
+#s-sobre{
+    display: flex;
+    /*Section do sobre e foto*/
+}
+/*Sobre mim*/
+/**/
+/*Habilidades*/
+#s-habilidades1{
+    display: flex;
+    text-align: center;
+    padding-left: 110px;
+    padding-right: 10px;
+}
+#s-habilidades2{
+    display: flex;
+    text-align: center;
+    padding-left: 110px;
+    padding-right: 10px;
+}
+#habilidades{
+    text-align: center;
+}
+.Imagens-ha{
+    padding: 35px;
+    margin: 20px;
+    background-color: #486479;
+    border-radius: 10px;
+}
+.Imagens-h{
+    border-style: solid;
+}
+/*Habilidades*/
+/**/
+/*Projetos*/
+#s-projetos{
+    display: flex;
+    text-align: center;
+    padding-left: 150px;
+    width: 100px;
+}
+#projetos{
+    text-align: center;
+}
+.a-projetos{
+    padding: 100px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin: 10px;
+    background-color: #486479;
+    border-radius: 10px;
+}
+.h3-p{
+    font-size: 35px;
+}
+.h4-p{
+    font-size: 28px;
+    font-family: "Playfair Display", serif;
+    font-weight: 300;
+}
+/*Projetos*/ 
+/**/
+/*Certificados*/
+#s-certificados{
+     display: flex;
+    text-align: center;
+    padding-left: 150px;
+    width: 100px;
+}
+#certificados{
+    text-align: center;
+}
+.a-certificados{
+    padding: 100px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin: 10px;
+    background-color: #486479;
+    border-radius: 10px;
+}
+.h3-c{
+    font-size: 35px;
+}
+.h4-c{
+    font-size: 20px;
+    font-family: "Playfair Display", serif;
+    font-weight: 300;
+}
+/*Certificados*/
+/**/
+/*Contatos*/
+
+

@@ -112,6 +112,7 @@ hr{
     font-weight: 400;
 }
 #s-sobre{
+    display: inline-block;
     display: flex;
     /*Section do sobre e foto*/
 }
@@ -119,13 +120,15 @@ hr{
 /**/
 /*Habilidades*/
 #s-habilidades1{
-    display: flex;
+    display: inline-block;
+    
     text-align: center;
     padding-left: 110px;
     padding-right: 10px;
 }
 #s-habilidades2{
-    display: flex;
+    display: inline-block;
+    
     text-align: center;
     padding-left: 110px;
     padding-right: 10px;
@@ -138,14 +141,17 @@ hr{
     margin: 20px;
     background-color: #486479;
     border-radius: 10px;
+    display: inline-block;
 }
 .Imagens-h{
     border-style: solid;
+
 }
 /*Habilidades*/
 /**/
 /*Projetos*/
 #s-projetos{
+    display: inline-block;
     display: flex;
     text-align: center;
     padding-left: 150px;
@@ -174,6 +180,7 @@ hr{
 /**/
 /*Certificados*/
 #s-certificados{
+    display: inline-block;
      display: flex;
     text-align: center;
     padding-left: 150px;
@@ -201,5 +208,24 @@ hr{
 /*Certificados*/
 /**/
 /*Contatos*/
+.contatos-a{
+    display: inline-block;
+    padding-left: 160px;
+    padding-right: 90px;
+    padding-bottom: 40px;
+}
+#contatos-s{
+    text-align: center;
+}
+#contatos{
+    text-align: center;
+}
+/*Contatos*/
+/**/
+/*Rodapé*/
+footer{
+    background-color: #486479;
+    text-align: center;
+}
 
 

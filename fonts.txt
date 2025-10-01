@@ -1,6 +1,11 @@
+
+--
+
 Fonts:
 Playfair Siaplay - Titulos e Subtitulos
 Open Sans - Textos
+
+--
 
 Cores:
 Cabeçalho, rodapé e fundos de imagem - #486479

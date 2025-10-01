@@ -121,14 +121,12 @@ hr{
 /*Habilidades*/
 #s-habilidades1{
     display: inline-block;
-    
     text-align: center;
     padding-left: 110px;
     padding-right: 10px;
 }
 #s-habilidades2{
     display: inline-block;
-    
     text-align: center;
     padding-left: 110px;
     padding-right: 10px;
@@ -145,7 +143,6 @@ hr{
 }
 .Imagens-h{
     border-style: solid;
-
 }
 /*Habilidades*/
 /**/
@@ -227,5 +224,6 @@ footer{
     background-color: #486479;
     text-align: center;
 }
+/*Rodapé*/
 
 
